@@ -1,8 +1,7 @@
 import streamlit as st
 
-st.set_page_config(page_title="PrediScan", layout="wide")
-
-st.title("PrediScan - CVD Risk Prediction")
+st.set_page_config(page_title="LDL Prediction App", layout="wide")
+st.title("LDL Cholesterol Prediction System")
 
 st.header("Step 1: Enter Basic Details")
 
